@@ -12,7 +12,4 @@ questions only: 250 files in 1 folder
 
 
 it's too bad that i forgot to categorize them when crawling them from the internet.
-
-
-no license. 
 ```
